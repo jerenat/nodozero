@@ -1,0 +1,44 @@
+==== BAHIA BLANCA ====
+
+# Generalmente para los Nano M5 / Mikrotik se usa
+------------------------------------------
+
+IP (NANO):		192.168.10.1:8880
+IP (MIKROTIK):	192.168.10.1
+USUARIO:		Ubn7
+CONTRASEÑA: 	Clien73
+
+# Generalmente se usa en los Nano AC
+
+USUARIO:		Ubn7
+CONTRASEÑA: 	Clien73123
+
+------------------------------------------
+
+==== MAR DEL PLATA ====
+IP:			192.168.1.1
+USUARIO:		Maxima
+CONTRASEÑA:		Justo951
+
+------------------------------------------
+
+==== TRELEW ====
+IP: 			192.168.1.20
+USUARIO:		Nodonet
+CONTRASEÑA:		Yrigoyen357
+
+-------------------------------------------
+
+
+==== LOGIN POR DEFECTO ====
+
+(NANO)
+IP:			192.168.1.20
+USUARIO:		ubnt
+CONTRASEÑA:		ubnt
+
+
+(MIKROTIK)
+IP: 192.168.88.1
+
+NO REQUIERE USUARIO NI CONTRASEÑA LA PRIMERA VEZ
