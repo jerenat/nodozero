@@ -51,10 +51,10 @@ UBIQUITI - MIKROTIK
 -------------------------------------------------
 
 NODO 7 (LAINEZ)
+Salinas Chicas 1450
+UBIQUITI - MIKROTIK
 
 -------------------------------------------------
-
-UBIQUITI - MIKROTIK
 
 NODO 8 (SPURR)
 La Pinta 1181
