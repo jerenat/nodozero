@@ -99,6 +99,13 @@ UBIQUITI - MIKROTIK
 
 -------------------------------------------------
 
+NODO 18 (IGLESIA 2)
+C. Indiada 2850
+MIKROTIK
+
+
+-------------------------------------------------
+
 
 NODO 19 (RUBEN INSUA)
 C. Dorotea Macedo y Jorge Aquilar (RUTA NACIONAL 33)
