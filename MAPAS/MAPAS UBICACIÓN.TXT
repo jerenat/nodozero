@@ -80,10 +80,11 @@ UBIQUITI - MIKROTIK
 
 -------------------------------------------------
 
-NODO 13
+NODO 13 (PARQUE INDUSTRIAL)
+Honduras 3400
+UBIQUITI
 
 -------------------------------------------------
-
 
 
 NODO 14 (SERVICIOS HLB)
