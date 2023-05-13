@@ -99,6 +99,12 @@ UBIQUITI - MIKROTIK
 
 -------------------------------------------------
 
+NODO 17 (LA NORIA)
+Ruta 3 Km 683,5
+UBIQUITI - MIKROTIK
+
+-------------------------------------------------
+
 NODO 18 (IGLESIA 2)
 C. Indiada 2850
 MIKROTIK
