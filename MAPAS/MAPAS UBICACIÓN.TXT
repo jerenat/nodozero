@@ -1,0 +1,211 @@
+===============================================
+MAPA DE ANTENAS
+===============================================
+
+NODO 0 (PAIHUEN)
+C. Dorotea Macedo 3586
+UBIQUITI M5
+
+-------------------------------------------------
+
+NODO 1 (FUHR)
+Bermudez 5325
+UBIQUITI
+
+--------------------------------------------------
+
+NODO 2 (SAN CARLOS)
+Esteban Rigamonti y Mariano Reynald
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 3 (INDIADA IGLESIA 1)
+Ignacio Pirovano 3285
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 4 (PLASTICOS SAAVEDRA)
+Don Bosco 3197
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 5 (RODRIGUEZ)
+Martiniano Rodriguez 4660
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 5 (HERMANO WALTER)
+Simon Bolivar 2200
+MIKROTIK
+
+-------------------------------------------------
+
+NODO 6 (ABSA)
+Planta Absa
+UBIQUITI - MIKROTIK
+
+-------------------------------------------------
+
+NODO 7 (LAINEZ)
+
+-------------------------------------------------
+
+UBIQUITI - MIKROTIK
+
+NODO 8 (SPURR)
+La Pinta 1181
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 10 (LA NORIA ESPORA)
+Los pozos
+UBIQUITI - MIKROTIK
+
+-------------------------------------------------
+
+NODO 11 (LÍBANO - SARA)
+Líbano y Dr. Arturo Donnari
+UBIQUITI - MIKROTIK
+
+-------------------------------------------------
+
+NODO 12 (AUTÓDROMO)
+Autódromo "Ezequiel Crisol"
+UBIQUITI - MIKROTIK
+
+-------------------------------------------------
+
+NODO 13
+
+-------------------------------------------------
+
+
+
+NODO 14 (SERVICIOS HLB)
+Facundo Zuviria 260
+UBIQUITI - MIKROTIK
+
+-------------------------------------------------
+
+NODO 15/16 (MORENO)
+Moreno 637
+UBIQUITI - MIKROTIK
+
+-------------------------------------------------
+
+
+NODO 19 (RUBEN INSUA)
+C. Dorotea Macedo y Jorge Aquilar (RUTA NACIONAL 33)
+UBIQUITI
+
+-------------------------------------------------
+
+
+NODO 21 (SURFRIGO)
+Ruta 3 Km 695 B
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 22 (PARQUE NORTE)
+Ruta 252
+MIKROTIK
+
+-------------------------------------------------
+
+NODO 23 (GALPÓN)
+Damas Mendocinas 71
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 24 (ENVAPLAST)
+Don Bosco 2545
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 25 (CASA DE DARIO)
+Parera y Sivori
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 26 (BOSQUE ALTO)
+Obrador Esuco Construcciones, Bosque Alto, C.7
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 27 (PABLO - HERNANDEZ)
+José Hernandez 1141
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 28 ()
+
+-------------------------------------------------
+
+NODO 29 (PEREZ)
+Carlos Gardel 2050
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 30 (CLEGG)
+La Guardería - C. Norberto Clegg
+UBIQUITI
+
+-------------------------------------------------
+
+
+NODO 32 (PORTAL DEL ESTE)
+El Benteveo 7250
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 33 (KOVALENKO)
+Charlone 1645
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 35 (REMAR)
+18 de Julio y Manuel Pedraza
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 36 (LA CABALLERIA)
+Mexico 1051
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 37 (DON BOSCO)
+Don Bosco 3660
+UBIQUITI
+
+-------------------------------------------------
+
+NODO 38 (ESTACION DE COLECTIVEROS SPURR)
+Tierra del Fuego 2728
+UBIQUITI
+
+-------------------------------------------------
+
+NODO CAMPO PLASTICOS SAAVEDRA
+Parque Eólico
+MIKROTIK
+
+-------------------------------------------------
+NODO 1 (MONTEVISION - MONTE HERMOSO)
+Patagonia 350, B8153 Monte Hermoso, Provincia de Buenos Aires
+UBIQUITI
