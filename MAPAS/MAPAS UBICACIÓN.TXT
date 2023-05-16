@@ -78,11 +78,6 @@ NODO 12 (AUTÓDROMO)
 Autódromo "Ezequiel Crisol"
 UBIQUITI - MIKROTIK
 
--------------------------------------------------
-
-NODO 13 (PARQUE INDUSTRIAL)
-Honduras 3400
-UBIQUITI
 
 -------------------------------------------------
 
@@ -180,6 +175,11 @@ UBIQUITI
 
 -------------------------------------------------
 
+NODO 31 (PARQUE INDUSTRIAL)
+Honduras 3400
+UBIQUITI
+
+-------------------------------------------------
 
 NODO 32 (PORTAL DEL ESTE)
 El Benteveo 7250
