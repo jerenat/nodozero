@@ -13,6 +13,11 @@ Sino se puede consultar en el archivo llamado `MAPAS UBICACIÓN.TXT`
 Allí se obtienen los datos adicionales
 
 ## Significado
+
 `UB - UBIQUITI` : Solo soporta antenas *UBIQUITI*
+
+
 `MK - MIKROTIK` : Solo soporta antenas *MIKROTIK*
+
+
 `UB/MK - UBIQUIT/MIKROTIK`: Soporta tanto *MIKROTIK* como *UBIQUITI*
