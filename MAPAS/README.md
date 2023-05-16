@@ -26,3 +26,6 @@ Allí se obtienen los datos adicionales
 ## Datos adicionales
 
 El NODO 0 (PAIHUEN) y los nodos 2A y 2B SON SOLO PARA PANELES `UBIQUITI M5` NO SOPORTA `ANTENAS AC`
+
+
+El NODO 2 (SAN CARLOS) parece tener un problema geográfico, si el cliente se encuentra cerca de la antena no va a tener problema, pero si se encuentra a mas de `1,5km` no va a ser necesario un caño tan largo
