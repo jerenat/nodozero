@@ -21,3 +21,8 @@ Allí se obtienen los datos adicionales
 
 
 `UB/MK - UBIQUIT/MIKROTIK`: Soporta tanto *MIKROTIK* como *UBIQUITI*
+
+
+## Datos adicionales
+
+El NODO 0 (PAIHUEN) y los nodos 2A y 2B SON SOLO PARA PANELES `UBIQUITI M5` NO SOPORTA `ANTENAS AC`
