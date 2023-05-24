@@ -10,6 +10,15 @@ Rigamonti y Mariano Reynald
 </p>
 
 
+## Nodo 23 (GALPÓN WALTER) - [UBIQUITI]
+Damas Mendocinas 71
+
+<p align="center">
+  <img width="370" height="500" src="./NODO_23.jpeg">
+</p>
+
+
+
 ## Nodo 27 (HERNANDEZ) - [UBIQUITI]
 
 José Hernandez 1141
