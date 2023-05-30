@@ -1,0 +1,1 @@
+wss://jerenatanael.uisp.com:443+tJzZRJfDn0Npt1KBcgcjlazOKRzcEeQc2PmpAsxvRVLuFQju+allowSelfSignedCertificate
