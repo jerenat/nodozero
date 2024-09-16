@@ -54,6 +54,7 @@ wget http://example.com/firmware/latest-version
 
 # Ejecutar configuración
 sh configure-antenna.sh
+```
 
 ## Contacto
 Si tienes dudas o necesitas soporte, contáctanos a: [jere8886@gmail.com](mailto:jere8886@gmail.com)
